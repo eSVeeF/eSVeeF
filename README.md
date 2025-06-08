@@ -8,9 +8,8 @@
 ---
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
-<br>
 
-### 🧠 Machine Learning & Data Science 
+#### 🧠 Machine Learning & Data Science 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
@@ -24,7 +23,7 @@
 
 ---
 
-### 🔧 Tools & Environments
+#### 🔧 Tools & Environments
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
@@ -35,7 +34,7 @@
 
 ---
 
-### ☁️ Cloud, MLOps & Databases
+#### ☁️ Cloud, MLOps & Databases
 
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlecloud&logoColor=white)
@@ -46,7 +45,7 @@
 
 ---
 
-### 🌐 Web & Scripting
+#### 🌐 Web & Scripting
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
