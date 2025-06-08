@@ -11,7 +11,14 @@ I'm passionate about building scalable and production-ready ML systems to solve 
 
 ---
 
-### 🛠️ Tech Stack
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
+<br>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,sql,git,github,jupyter,keras,pytorch,tensorflow,opencv,r,vscode,linux,docker,gcp,jenkins,bigquery&perline=10" />
+  </a>
+</p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
