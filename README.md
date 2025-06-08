@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Sergio Vizcaino 👋</h1>
----
 
 ### 🔍 About Me
 🎓 I’m a graduate of the [**Bachelor’s Degree in Data Science and Engineering**](https://www.uc3m.es/bachelor-degree/data-science) **Universidad Carlos III de Madrid**.  
