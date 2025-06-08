@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Sergio Vizcaino 👋</h1>
 
 ## 🔍 About Me
-🎓 I’m a graduate of the [*Bachelor’s Degree in Data Science and Engineering*](https://www.uc3m.es/bachelor-degree/data-science) at Universidad Carlos III de Madrid.  <br>
-🚀 Passionate about building scalable, production-ready ML systems to solve high-impact problems. <br>
-🔄 I enjoy working across the ML lifecycle, from data engineering to MLOps. <br>
-🤖 My interests also include Computer Vision, Reinforcement Learning, and Forecasting Algorithms.
+  -🎓 I’m a graduate of the [*Bachelor’s Degree in Data Science and Engineering*](https://www.uc3m.es/bachelor-degree/data-science) at Universidad Carlos III de Madrid.  <br>
+  -🚀 Passionate about building scalable, production-ready ML systems to solve high-impact problems. <br>
+  -🔄 I enjoy working across the ML lifecycle, from data engineering to MLOps. <br>
+  -🤖 My interests also include Computer Vision, Reinforcement Learning, and Forecasting Algorithms.
 
 ---
 
