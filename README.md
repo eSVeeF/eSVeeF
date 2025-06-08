@@ -2,7 +2,9 @@
 
 ## 🔍 About Me
 🎓 I’m a graduate of the [**Bachelor’s Degree in Data Science and Engineering**](https://www.uc3m.es/bachelor-degree/data-science) at **Universidad Carlos III de Madrid**.  
-🚀 Passionate about building scalable and production-ready ML systems to solve high-impact problems. I enjoy working across the ML lifecycle, from data engineering to MLOps. My interests also include Computer Vision, and Forecasting Algorithms.
+🚀 Passionate about building scalable and production-ready ML systems to solve high-impact problems. 
+🔄 I enjoy working across the ML lifecycle, from data engineering to MLOps.
+🤖 My interests also include Computer Vision, Reinforcement Learning, and Forecasting Algorithms.
 
 ---
 
