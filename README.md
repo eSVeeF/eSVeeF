@@ -58,7 +58,6 @@ Want to talk Machine Learning & MLOps, vision models, or forecasting algorithms?
 
 📧 sergiovizcainoferrer@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/sergio-vizcaino-ferrer/)  
-💻 [GitHub](https://github.com/eSVeeF)
 
 ---
 
