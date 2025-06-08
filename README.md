@@ -16,7 +16,7 @@ I'm passionate about building scalable and production-ready ML systems to solve 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sql,git,github,jupyter,keras,pytorch,tensorflow,opencv,r,vscode,linux,docker,gcp,jenkins,bigquery&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,r,sql,git,github,jupyter,keras,pytorch,tensorflow,opencv,sckit-learn,vscode,gcp,PySpark,bigquery&perline=10" />
   </a>
 </p>
 
