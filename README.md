@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Sergio Vizcaino 👋</h1>
 
-### 🔍 About Me
+## 🔍 About Me
 🎓 I’m a graduate of the [**Bachelor’s Degree in Data Science and Engineering**](https://www.uc3m.es/bachelor-degree/data-science) at **Universidad Carlos III de Madrid**.  
 🚀 Passionate about building scalable and production-ready ML systems to solve high-impact problems. I enjoy working across the ML lifecycle, from data engineering to MLOps. My interests also include Computer Vision, and Forecasting Algorithms.
 
 ---
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 
-#### 🧠 Machine Learning & Data Science 
+### 🧠 Machine Learning & Data Science 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
@@ -22,7 +22,7 @@
 
 ---
 
-#### 🔧 Tools & Environments
+### 🔧 Tools & Environments
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
@@ -33,7 +33,7 @@
 
 ---
 
-#### ☁️ Cloud, MLOps & Databases
+### ☁️ Cloud, MLOps & Databases
 
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlecloud&logoColor=white)
@@ -44,7 +44,7 @@
 
 ---
 
-#### 🌐 Web & Scripting
+### 🌐 Web & Scripting
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -52,7 +52,7 @@
 
 ---
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 
 Want to talk Machine Learning & MLOps, vision models, or forecasting algorithms? Reach out:
 
