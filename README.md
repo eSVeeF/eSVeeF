@@ -43,6 +43,8 @@
 ![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=flat&logo=githubactions&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-13B0BB?style=flat&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ---
 
