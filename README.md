@@ -55,14 +55,3 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ---
-
-## 📫 Let's Connect
-
-Want to talk Machine Learning & MLOps, vision models, or forecasting algorithms? Reach out:
-
-📧 sergiovizcainoferrer@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/sergio-vizcaino-ferrer/)  
-
----
-
-> _“ML is only useful if it works in production.” – Me, probably._
