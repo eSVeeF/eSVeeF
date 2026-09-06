@@ -6,7 +6,15 @@ I'm an ML Engineer who builds and ships production ML systems end-to-end. My cor
 
 ## Open Source Contributions
 
-[OPEN_SOURCE_TEXT]
+**[huggingface/peft](https://github.com/huggingface/peft)** — Parameter-Efficient Fine-Tuning library
+
+- [#3427](https://github.com/huggingface/peft/pull/3427) — Fixed LoRA hotswapping for grouped `Conv2d` layers: rank padding was treating a per-group dimension as the global rank, causing shape errors.
+- [#3315](https://github.com/huggingface/peft/pull/3315) — Fixed the LoRA-FA optimizer to use each layer's actual scaling instead of one global value, which broke gradients when `rank_pattern`/`alpha_pattern` varied across layers.
+- All merged contributions, ongoing work, and issue discussions — [merged PRs](https://github.com/huggingface/peft/pulls?q=is%3Apr+author%3AeSVeeF+is%3Amerged) · [all issues](https://github.com/huggingface/peft/issues?q=is%3Aissue+author%3AeSVeeF)
+
+**[huggingface/sentence-transformers](https://github.com/huggingface/sentence-transformers)** — embeddings & semantic search library
+
+- Merged contributions, ongoing work, and issue reports — [merged PRs](https://github.com/huggingface/sentence-transformers/pulls?q=is%3Apr+author%3AeSVeeF+is%3Amerged) · [all issues](https://github.com/huggingface/sentence-transformers/issues?q=is%3Aissue+author%3AeSVeeF)
 
 ## Tech Stack
 
