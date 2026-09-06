@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an ML Engineer who builds and ships production ML systems end-to-end. My core strengths are fine-tuning and deploying local and quantized models for real-world use. Bachelor's in Data Science and Engineering from Universidad Carlos III de Madrid.
+I'm an ML Engineer who builds and ships production ML systems end-to-end. My core strengths are fine-tuning and deploying local and quantized models for real-world use. B.Sc. in Data Science and Engineering from Universidad Carlos III de Madrid.
 
 ## Open Source Contributions
 
