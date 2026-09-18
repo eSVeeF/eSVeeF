@@ -9,6 +9,7 @@
 - **End-to-end delivery** — Take AI/ML systems from design and data preparation through deployment, validation, and daily operation.
 - **Inference that works in practice** — Combine local quantized LLM/VLM inference with cloud services to automate real business workflows.
 - **Reliable by design** — Add pipelines, monitoring, and recovery workflows so models hold up beyond the demo.
+- **Open Source** — Shipping fixes to widely used AI/ML ecosystems.
 
 ## Open Source Contributions
 
