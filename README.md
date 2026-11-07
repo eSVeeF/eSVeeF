@@ -26,7 +26,6 @@
 
 **Hugging Face · PEFT**
 - [#4089](https://github.com/huggingface/peft/pull/4089) — Added a feature that flags randomly initialized task heads not saved with the adapter
-- [#3427](https://github.com/huggingface/peft/pull/3427) — Handled grouped `Conv2d` rank padding during LoRA hotswapping
 - [#3315](https://github.com/huggingface/peft/pull/3315) — Respected layer-specific scaling in the LoRA-FA optimizer
 
 **Hugging Face · Sentence Transformers**
