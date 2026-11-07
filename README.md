@@ -9,7 +9,7 @@
 - **End-to-end delivery** — Take AI/ML systems from design and data preparation through deployment, validation, and daily operation.
 - **Inference that works in practice** — Combine local quantized LLM/VLM inference with cloud services to automate real business workflows.
 - **Reliable by design** — Add pipelines, monitoring, and recovery workflows so models hold up beyond the demo.
-- **Open Source** — Shipping fixes to widely used AI/ML ecosystems.
+- **Open Source** — Shipping fixes and new features to widely used AI/ML ecosystems.
 
 ## Open Source Contributions
 
@@ -25,6 +25,7 @@
 <br>
 
 **Hugging Face · PEFT**
+- [#4089](https://github.com/huggingface/peft/pull/4089) — Added a feature that flags randomly initialized task heads not saved with the adapter
 - [#3427](https://github.com/huggingface/peft/pull/3427) — Handled grouped `Conv2d` rank padding during LoRA hotswapping
 - [#3315](https://github.com/huggingface/peft/pull/3315) — Respected layer-specific scaling in the LoRA-FA optimizer
 
